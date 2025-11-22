@@ -1,8 +1,11 @@
 # Guide to using Claude Code
 
 > The Less Ambiguity, the Better
+
 > Be Thorough and Precise: Early
+
 > The Better your English, the Better your Code
+
 > Understand the inputs and the outputs: let Claude do the rest
 
 ## Development Stages
